@@ -1,0 +1,2 @@
+Am starting shell basics 
+
